@@ -2,7 +2,7 @@
 
 
 Проект | Описание | Стек технологий
------- | ---------|----------
-a      | 4        | $
+:------ | :---------|:----------
+[Анализ рынка компьютерных игр](https://github.com/tarusin17/Y.Praktikum-projects/tree/master/Games-analys)      | Анализ рынка компьютерных игр и выбор перспективных платформ        | Jupyter Notebook, Python, библиотеки Pandas, Matplotlib, SciPy, Seaborn, NumPy
 2      | 2        | 2
 1      | 1        | 1
