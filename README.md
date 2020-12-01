@@ -10,5 +10,8 @@
 [Предсказание коэффициента золота в руде](https://github.com/tarusin17/Y.Praktikum-projects/tree/master/gold-coefficient-model)       | Регрессионная модель для оптимизации производства          | *Jupyter Notebook, Python, библиотеки Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.*
 [Предсказание объемов нефти](https://github.com/tarusin17/Y.Praktikum-projects/tree/master/oil-forecasting-model)       | Построение модели предсказания объема нефти в месторождении. Расчет прибыли и рисков.            | *Python, библиотеки: Pandas, scikit-learn, NumPy, Scipy, техника Bootstrap*
 [Определение рыночной стоимости автомобиля](https://github.com/tarusin17/Y.Praktikum-projects/tree/master/car_price_prediction)       | Регрессионная модель для определения стоимости автомобиля для сервиса по продаже авто. Пользователь вводит тех. характеристики автомобиля и получает его рыночную стоимость          | *Python, библиотеки Pandas, NumPy, matplotlib, seaborn, sklearn, Catboost*
-[]()       |           | **
-[]()       |           | **
+[Выбор подходящего тарифа](https://github.com/tarusin17/Y.Praktikum-projects/tree/master/tarif-model)       |Классификатор для мобильного оператора, которые подбирает подходящий, тариф для пользователя, основываясь на его тратах          | *Jupyter Notebook, Python, библиотеки Pandas, Scikit-learn.*
+[Предсказание временных рядов](https://github.com/tarusin17/time_series_prediction)       | Прогнозирование количества заказов такси на следующий час для лучшего распределения водителей           | *Python, Библиотеки Pandas, Matplotlib, Sklearn, Catboost.*
+[]()    |           |**
+[]()    |           |**
+[]()    |           |**
