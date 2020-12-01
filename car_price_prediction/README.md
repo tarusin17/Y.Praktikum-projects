@@ -5,3 +5,5 @@
 качество предсказания;
 скорость предсказания;
 время обучения.
+
+**Стэк - Python, библиотеки Pandas, NumPy, matplotlib, seaborn, sklearn, Catboost**
